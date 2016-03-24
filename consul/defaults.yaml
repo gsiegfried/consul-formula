@@ -1,12 +1,12 @@
 consul:
-  version: 0.6.1
-  hash: dbb3c348fdb7cdfc03e5617956b243c594a399733afee323e69ef664cdadb1ac
+  version: 0.6.4
+  hash: abdf0e1856292468e2c9971420d73b805e93888e006c76324ae39416edcf0627
 
-  ui_version: 0.6.1
-  ui_hash: afccdd540b166b778c7c0483becc5e282bbbb1ee52335bfe94bf757df8c55efc
+  ui_version: 0.6.4
+  ui_hash: 5f8841b51e0e3e2eb1f1dc66a47310ae42b0448e77df14c83bb49e0e0d5fa4b7
 
-  template_version: 0.12.1
-  template_hash: 693c52a2b1aed9b63584f47c377efd0fc349df3616985a0709246faaf9a80c8e
+  template_version: 0.14.0
+  template_hash: 7c70ea5f230a70c809333e75fdcff2f6f1e838f29cfb872e1420a63cdf7f3a78
 
   service: false
   config:
