@@ -12,7 +12,6 @@ consul:
   config:
     server: false
     bind_addr: 0.0.0.0
-    advertise_addr: 0.0.0.0
     data_dir: /var/consul
     ui_dir: /usr/local/share/consul/ui
     enable_debug: false
